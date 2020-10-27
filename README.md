@@ -1,6 +1,6 @@
 # System-Identification-of-Mobile-Robot
-Deterministic Identification
+Deterministic Identification.
 
-Stochastic Identification
+Stochastic Identification.
 
-Statistical Discrete Models
+Statistical Discrete Models.
